@@ -1,0 +1,13 @@
+.initial-flex {
+    flex-grow: initial;
+}
+
+.header-icon {
+    font-size: 2rem;
+    color: #000;
+    padding-right: 0.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
